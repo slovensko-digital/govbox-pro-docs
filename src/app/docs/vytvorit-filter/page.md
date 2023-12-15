@@ -4,8 +4,8 @@
 -	V okne nový filter sa nachádzajú dve kolonky pre názov a dopyt na vyhľadavanie a dve tlačidlá Zahodiť a Vytvoriť
 
 - Sidebar s kolonkou pre nastavenie:
-![Alternativny text, ked nie je obrazok](../obrázok39.png "Nazov obrazku")
+![Alternativny text, ked nie je obrazok](../vytvorit-vlastny-filter.png "Nazov obrazku")
 - Tlačidlo „vytvoriť filter“
-![Alternativny text, ked nie je obrazok](../obrázok40.png "Nazov obrazku")
+![Alternativny text, ked nie je obrazok](../vytvorit-vlastny-filter1.png "Nazov obrazku")
 - Okno na vytvorenie filtra
-![Alternativny text, ked nie je obrazok](../obrázok41.png "Nazov obrazku")
+![Alternativny text, ked nie je obrazok](../vytvorit-vlastny-filter2.png "Nazov obrazku")

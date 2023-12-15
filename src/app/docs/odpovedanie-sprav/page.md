@@ -6,4 +6,4 @@
 4.	Podpísať
 5.	Pridať prílohu
 6.	Odoslať
-![Alternativny text, ked nie je obrazok](../obrázok46.png "Nazov obrazku")
+![Alternativny text, ked nie je obrazok](../odpovedanie-sprav.png "Nazov obrazku")
