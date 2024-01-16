@@ -2,13 +2,13 @@ name: Gitlab push CI
 
 on:
   push:
-    branches: master
+    branches: main
   pull_request:
     branches: '**'
 
 jobs:
   gitlab-push:
-    if: ${{github.ref == 'refs/heads/master'}}
+    if: ${{github.ref == 'refs/heads/main'}}
 
     runs-on: ubuntu-latest
 
