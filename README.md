@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> # Repository archivation
+> Documentation has been moved to [GovBox PRO repository](https://github.com/slovensko-digital/govbox-pro/tree/main/docs)
+
+---
+
 # Syntax
 
 Syntax is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
